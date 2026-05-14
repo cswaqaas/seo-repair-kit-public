@@ -34,8 +34,8 @@ class SeoRepairKit_Admin {
     private $cached_license_info = null;
 	private $crm_endpoint;
     // Live key for production
-    private $crm_app_key = 'base64:S/1nezDK+azLBl1Mo5vvTYX0HieBnG5fJn6H9/r0ZrI=';
-
+    private $crm_app_key = 'base64:P/3f2jlafvdfIJOOERsd4fERVEierO2ISFJDL4KFfjls6df8e/sfXIHV2=';
+    
 	/**
 	 * Initialize the class and set its properties.
 	 *

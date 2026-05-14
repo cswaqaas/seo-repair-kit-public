@@ -536,7 +536,7 @@ if ( ! class_exists( 'SEORepairKit_KeyTrack_Settings' ) ) {
             // Send email
             $srkit_report_email_headers = [
                 'Content-Type: text/html; charset=UTF-8',
-                'Reply-To: SEO Repair Kit <ab@seorepairkit.com>',
+                'Reply-To: SEO Repair Kit <testing@seorepairkit.com>',
             ];
             wp_mail( $srkit_admin_email_report, $srkit_th_email_subject, $srkit_th_email_message, $srkit_report_email_headers );
         }

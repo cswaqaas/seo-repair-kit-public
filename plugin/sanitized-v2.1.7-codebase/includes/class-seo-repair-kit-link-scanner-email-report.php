@@ -64,7 +64,7 @@ class SeoRepairKit_LinkScanner_Email_Report {
 
 		$headers = array(
 			'Content-Type: text/html; charset=UTF-8',
-			'Reply-To: SEO Repair Kit <ab@seorepairkit.com>',
+			'Reply-To: SEO Repair Kit <testing@seorepairkit.com>',
 		);
 
 		$sent = wp_mail( $recipients, $subject, $message, $headers );

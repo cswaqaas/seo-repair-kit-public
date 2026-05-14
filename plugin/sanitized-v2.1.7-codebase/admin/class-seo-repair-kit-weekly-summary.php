@@ -154,7 +154,7 @@ class SeoRepairKit_WeeklySummaryService {
 
 		$srk_headers = array(
 			'Content-Type: text/html; charset=UTF-8',
-			'Reply-To: SEO Repair Kit <ab@seorepairkit.com>',
+			'Reply-To: SEO Repair Kit <testing@seorepairkit.com>',
 		);
 
 		$srk_sent = wp_mail( $srk_admin_email, $srk_subject, $srk_message, $srk_headers );
