@@ -1,5 +1,11 @@
 # SEO Repair Kit
 
+![WordPress](https://img.shields.io/badge/WordPress-Plugin-blue)
+![PHP](https://img.shields.io/badge/PHP-WordPress%20Development-777BB4)
+![Status](https://img.shields.io/badge/Status-Active%20Development-success)
+![Version](https://img.shields.io/badge/Version-v2.1.7-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+
 SEO Repair Kit is a WordPress SEO plugin focused on technical SEO automation, schema management, link auditing, redirect workflows, and scalable optimization systems.
 
 The production plugin is available on WordPress.org:
