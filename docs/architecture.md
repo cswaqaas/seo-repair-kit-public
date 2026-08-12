@@ -28,6 +28,12 @@ Current and planned feature areas include:
 - Spam Monitor
 - Internal Linking
 
+### Spam Monitor in v2.1.9
+
+The v2.1.9 release adds a dedicated Spam Monitor surface with isolated admin screens, backend service classes, database tables, AJAX handlers, scheduled scan orchestration, alert history, email reports, and SERP provider integration points.
+
+The public evidence snapshot intentionally omits production signing secrets while preserving the code structure needed to review module boundaries, hook registration, table ownership, and release integration.
+
 ## Engineering Principles
 
 - modular feature isolation

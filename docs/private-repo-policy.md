@@ -25,6 +25,8 @@ Instead of making the private repository public, this repository provides a safe
 - roadmap
 - maintainer evidence
 - WordPress.org references
+- selected sanitized production snapshots
+- release-readiness audit notes
 
 ## Contribution Proof
 
@@ -37,3 +39,6 @@ Public proof is supported through:
 - screenshots
 - release notes
 - linked maintainer profiles
+- sanitized v2.1.7 and v2.1.9 code snapshots
+- v2.1.8 and v2.1.9 release trail documentation
+- v2.1.9 compatibility audit

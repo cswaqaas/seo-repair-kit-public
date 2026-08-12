@@ -38,9 +38,9 @@ define( 'SEO_REPAIR_KIT_VERSION', '2.1.7' );
 
 /**
  * Secret Key
- * To change the key, you only need to update this line.
+ * Public evidence snapshot: production signing secrets are intentionally omitted.
  */
-define( 'SRK_SHARED_SECRET', 'P/3f2jlafvdfIJOOERsd4fERVEierO2ISFJDL4KFfjls6df8e/sfXIHV2=' );
+define( 'SRK_SHARED_SECRET', '' );
 
 /**
  * This key is used for authentication with the Laravel API.

@@ -4,11 +4,15 @@ SEO Repair Kit is focused on practical technical SEO workflows for WordPress web
 
 ---
 
-# Current Stable Release
+# Current Public Evidence
 
-## v2.1.7
+## v2.1.9
 
-Production version currently available on WordPress.org.
+Current public evidence/preparation snapshot synced from the private production checkout.
+
+## WordPress.org-visible stable release
+
+v2.1.8 is the latest version visible on WordPress.org during this public evidence sync.
 
 ### Included Areas
 
@@ -19,14 +23,34 @@ Production version currently available on WordPress.org.
 - Robots / LLMs controls
 - KeyTrack workflows
 - Dashboard and reporting tools
+- Spam Monitor
+- Spam Rules
+- Google SERP scan workflows
+- scheduled spam monitoring
+- alert history and email reports
+- Spam Monitor export/clear actions and pagination
+
+---
+
+# Recent Release Trail
+
+## v2.1.8
+
+- Tested up to WordPress 7.0
+- Fixed 404 Monitor pagination issue in Links Manager
+
+## v2.1.7
+
+- Links Manager production work
+- automation scan alerts
+- schema and meta management refinements
+- dashboard and reporting tools
 
 ---
 
 # In Active Development
 
-## v2.1.8-beta
-
-### Internal Linking System
+## Internal Linking System
 
 A modular internal linking workflow focused on:
 

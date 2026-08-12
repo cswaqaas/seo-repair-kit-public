@@ -1,0 +1,45 @@
+# Release Evidence Index
+
+This page maps the public SEO Repair Kit evidence repository to the shipped release trail.
+
+## v2.1.9 Public Evidence Snapshot
+
+Current public evidence snapshot:
+
+- `plugin/sanitized-v2.1.9-codebase/`
+- `docs/V2.1.9-COMPATIBILITY-AUDIT.md`
+- `assets/screenshots/`
+
+Release evidence:
+
+- Spam Monitor module
+- Spam Rules
+- Google SERP scan workflows
+- scheduled spam monitoring
+- alert history and email reports
+- dashboard status visibility
+- record pagination
+- export and clear table actions
+- Bot Manager `/llms.txt` serving improvement
+
+## v2.1.8 WordPress.org-visible Release
+
+Intermediate release evidence:
+
+- WordPress 7.0 compatibility metadata
+- 404 Monitor pagination fix in Links Manager
+- v2.1.8 baseline referenced by the v2.1.9 compatibility audit
+
+No standalone v2.1.8 public snapshot is present in this checkout. The public repository keeps v2.1.8 represented through release notes and audit references, while v2.1.9 contains the current sanitized code evidence.
+
+## v2.1.7
+
+Historical public snapshot:
+
+- `plugin/sanitized-v2.1.7-codebase/`
+- existing screenshots
+- previous roadmap and release documentation
+
+## Private Work and Public Proof
+
+The primary development repository remains private because it contains company-owned history, internal workflow details, and commercial implementation context. This public repository exists to provide a safer verification layer: public release notes, architecture notes, screenshots, compatibility audits, and selected sanitized snapshots that show the shipped WordPress.org plugin surface without exposing private operational material.
