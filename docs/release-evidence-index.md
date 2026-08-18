@@ -8,6 +8,7 @@ Current public evidence snapshot:
 
 - `plugin/sanitized-v2.1.9-codebase/`
 - `docs/V2.1.9-COMPATIBILITY-AUDIT.md`
+- `docs/plans-and-packages.md`
 - `assets/screenshots/`
 
 Release evidence:
@@ -21,6 +22,7 @@ Release evidence:
 - record pagination
 - export and clear table actions
 - Bot Manager `/llms.txt` serving improvement
+- updated GBP plan and package pricing
 
 ## v2.1.8 WordPress.org-visible Release
 

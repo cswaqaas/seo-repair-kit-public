@@ -201,7 +201,7 @@ class SRK_License_Helper {
 	}
 
 	/**
-	 * Paid $1 add-on unlocks Posts, custom post types, and unlimited scanning.
+	 * Paid Broken Links + 404 Monitor module unlocks Posts, custom post types, and unlimited scanning.
 	 *
 	 * @return bool
 	 */

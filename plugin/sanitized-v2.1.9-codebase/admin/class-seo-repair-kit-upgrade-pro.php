@@ -98,7 +98,7 @@ class SeoRepairKit_Upgrade {
                     </div>
                     <div class="srk-upgrade-hero-text">
                         <h1><?php esc_html_e( 'Simple, Flexible SEO Pricing', 'seo-repair-kit' ); ?></h1>
-                        <p><?php esc_html_e( 'Start with one module and add more modules whenever your site needs them.', 'seo-repair-kit' ); ?></p>
+                        <p><?php esc_html_e( 'Choose a Complete package for multiple websites or start with one module whenever your site needs it.', 'seo-repair-kit' ); ?></p>
                         <div class="srk-upgrade-hero-badge">
                             <span class="dashicons dashicons-awards"></span>
                             <?php esc_html_e( 'NO SETUP FEES. CANCEL ANYTIME.', 'seo-repair-kit' ); ?>
@@ -161,10 +161,12 @@ class SeoRepairKit_Upgrade {
                     ?>
 
                     <div class="srk-cta-body">
-                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Broken Links + 404 Monitor from $1.99/month or $19/year', 'seo-repair-kit'); ?></span></div>
-                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Schema Manager from $4.99/month or $39/year', 'seo-repair-kit'); ?></span></div>
-                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Internal Linking from $4.99/month or $49/year', 'seo-repair-kit'); ?></span></div>
-                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Spam Monitor from $9.99/month or $89/year', 'seo-repair-kit'); ?></span></div>
+                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Individual Complete: 1 website from GBP 7.49/month or GBP 36.99/year', 'seo-repair-kit'); ?></span></div>
+                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Freelancer: 10 websites from GBP 11.49/month or GBP 88.99/year', 'seo-repair-kit'); ?></span></div>
+                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Studio: 25 websites from GBP 22.49/month or GBP 179/year', 'seo-repair-kit'); ?></span></div>
+                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Agency: 100 websites from GBP 44.99/month or GBP 359/year', 'seo-repair-kit'); ?></span></div>
+                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Enterprise: 300 websites from GBP 111.99/month or GBP 899/year', 'seo-repair-kit'); ?></span></div>
+                        <div class="srk-feature"><i class="dashicons dashicons-yes"></i><span><?php esc_html_e('Standalone modules start at GBP 1.49/month or GBP 14.99/year', 'seo-repair-kit'); ?></span></div>
                     </div>
 
                     <div class="srk-cta-footer">
@@ -215,8 +217,8 @@ class SeoRepairKit_Upgrade {
                 <div class="srk-upgrade-content">
                     <!-- Benefits grid -->
                     <div class="srk-panel">
-                        <h2 class="srk-panel-title"><?php esc_html_e('Choose the tools you need', 'seo-repair-kit'); ?></h2>
-                        <p class="srk-panel-subtitle"><?php esc_html_e('The CRM controls module access and Stripe pricing, so you can add tools to this website without reinstalling the plugin.', 'seo-repair-kit'); ?></p>
+                        <h2 class="srk-panel-title"><?php esc_html_e('Choose a package or module', 'seo-repair-kit'); ?></h2>
+                        <p class="srk-panel-subtitle"><?php esc_html_e('Complete packages cover 1, 10, 25, 100, or 300 websites. Standalone modules are available when you only need selected SEO tools.', 'seo-repair-kit'); ?></p>
                         <div class="srk-benefits" role="list">
                             <div class="srk-benefit srk-benefit-spam-monitor" role="listitem">
                                 <div class="srk-benefit-icon">
@@ -224,7 +226,7 @@ class SeoRepairKit_Upgrade {
                                 </div>
                                 <div class="srk-benefit-content">
                                     <h4><?php esc_html_e('Spam Monitor', 'seo-repair-kit'); ?></h4>
-                                    <p><?php esc_html_e('Monitor what search engines see, detect suspicious indexed URLs, schedule scans, and connect supported SERP providers when the module is active.', 'seo-repair-kit'); ?></p>
+                                    <p><?php esc_html_e('Launched paid module from GBP 7.49/month or GBP 74.99/year. Monitor what search engines see, detect suspicious indexed URLs, schedule scans, and connect supported SERP providers when active.', 'seo-repair-kit'); ?></p>
                                 </div>
                             </div>
                             <div class="srk-benefit srk-benefit-link-scanner" role="listitem">
@@ -233,7 +235,7 @@ class SeoRepairKit_Upgrade {
                                 </div>
                                 <div class="srk-benefit-content">
                                     <h4><?php esc_html_e('Broken Links + 404 Monitor', 'seo-repair-kit'); ?></h4>
-                                    <p><?php esc_html_e('Find broken links, check internal and external URLs, monitor 404 errors, view source pages, and keep scan history.', 'seo-repair-kit'); ?></p>
+                                    <p><?php esc_html_e('Standalone module from GBP 1.49/month or GBP 14.99/year. Find broken links, check internal and external URLs, monitor 404 errors, and keep scan history.', 'seo-repair-kit'); ?></p>
                                 </div>
                             </div>
                             <div class="srk-benefit srk-benefit-redirection" role="listitem">
@@ -251,7 +253,7 @@ class SeoRepairKit_Upgrade {
                                 </div>
                                 <div class="srk-benefit-content">
                                     <h4><?php esc_html_e('Schema Manager', 'seo-repair-kit'); ?></h4>
-                                    <p><?php esc_html_e('Create, manage, validate, and deploy structured data without manually writing complex Schema markup.', 'seo-repair-kit'); ?></p>
+                                    <p><?php esc_html_e('Standalone module from GBP 2.99/month or GBP 21.99/year. Create, manage, validate, and deploy structured data without manually writing complex Schema markup.', 'seo-repair-kit'); ?></p>
                                 </div>
                             </div>
                             <div class="srk-benefit srk-benefit-keytrack" role="listitem">
@@ -259,8 +261,8 @@ class SeoRepairKit_Upgrade {
                                     <span class="dashicons dashicons-chart-line"></span>
                                 </div>
                                 <div class="srk-benefit-content">
-                                    <h4><?php esc_html_e('KeyTrack', 'seo-repair-kit'); ?></h4>
-                                    <p><?php esc_html_e('Review SEO health signals, receive alerts, and keep visibility into issues that need attention.', 'seo-repair-kit'); ?></p>
+                                    <h4><?php esc_html_e('Internal Linking', 'seo-repair-kit'); ?></h4>
+                                    <p><?php esc_html_e('Standalone module from GBP 2.29/month or GBP 21.99/year. Discover internal-link opportunities and improve the structure of your website content.', 'seo-repair-kit'); ?></p>
                                 </div>
                             </div>
                             <div class="srk-benefit srk-benefit-support" role="listitem">

@@ -2,12 +2,13 @@
 
 ## v2.1.9 Public Evidence Snapshot
 
-Public evidence repository synced to the current SEO Repair Kit v2.1.9 private checkout/preparation line.
+Public evidence repository synced to the current SEO Repair Kit v2.1.9 private checkout line.
 
 ### Highlights
 
 - Added sanitized `v2.1.9` public evidence snapshot
-- Added Spam Monitor module evidence: dashboard, Spam Rules, Google SERP scan workflows, scheduled monitoring, alerts, reports, export/clear actions, and paginated records
+- Added launched Spam Monitor module evidence: dashboard, Spam Rules, Google SERP scan workflows, scheduled monitoring, alerts, reports, export/clear actions, and paginated records
+- Updated public plan/package pricing to GBP packages and standalone module pricing
 - Documented Bot Manager `/llms.txt` serving improvement
 - Added v2.1.9 compatibility audit reference
 - Sanitized public snapshot secrets while preserving the reviewable code structure

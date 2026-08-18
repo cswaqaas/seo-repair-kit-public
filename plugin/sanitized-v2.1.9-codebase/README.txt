@@ -110,6 +110,25 @@ This makes it ideal for:
 * Receive scheduled email summaries with key SEO status metrics
 * Includes Search performance, link health, Spam Monitor status, image alt coverage, and redirect insights
 
+= Plans and Packages =
+
+SEO Repair Kit is available as Complete packages or standalone modules.
+
+**Complete Packages**
+* Individual: 1 website, GBP 7.49/month or GBP 36.99/year
+* Freelancer: 10 websites, GBP 11.49/month or GBP 88.99/year
+* Studio: 25 websites, GBP 22.49/month or GBP 179/year
+* Agency: 100 websites, GBP 44.99/month or GBP 359/year
+* Enterprise: 300 websites, GBP 111.99/month or GBP 899/year
+
+**Standalone Modules**
+* Broken Links + 404 Monitor: GBP 1.49/month or GBP 14.99/year
+* Schema Manager: GBP 2.99/month or GBP 21.99/year
+* Internal Linking: GBP 2.29/month or GBP 21.99/year
+* Spam Monitor: GBP 7.49/month or GBP 74.99/year
+
+Complete packages include the SEO Repair Kit toolset for the selected website allowance. Standalone modules are useful when you only need selected SEO tools.
+
 == Screenshots ==
 
 1. SEO Repair Kit Dashboard Overview
@@ -747,7 +766,7 @@ No, the SEO Repair Kit is designed to be beginner-friendly, and you can optimize
 If you encounter any issues, need assistance, or have questions about using SEO Repair Kit, our dedicated support team is here to help. Please visit our support portal at https://support.seorepairkit.com/ to submit your query. You can also find helpful resources and documentation to resolve common issues on the support website.
 
 = What are the Pro features? =
-Pro features include AI Chatbot for real-time SEO assistance and Schema Manager for advanced schema markup management. These features require an active Pro license. Free users have access to all other features including link scanning, alt text management, redirections, KeyTrack, and 404 monitoring.
+Paid features can include Schema Manager, Internal Linking, Spam Monitor, and Broken Links + 404 Monitor depending on the selected plan or module. AI Chatbot access may be included with qualifying paid modules such as Schema Manager, Internal Linking, or Spam Monitor. Free users can still use available free SEO Repair Kit tools, while paid modules require an active license.
 
 You can also find helpful resources and documentation to resolve common issues on the support website.
 

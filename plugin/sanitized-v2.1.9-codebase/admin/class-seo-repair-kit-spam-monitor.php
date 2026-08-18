@@ -340,7 +340,7 @@ class SeoRepairKit_SpamMonitor {
 				<div class="srk-sm-module-access-icon"><span class="dashicons dashicons-info-outline"></span></div>
 				<div class="srk-sm-module-access-copy">
 					<strong><?php esc_html_e( 'Free Spam Monitor access', 'seo-repair-kit' ); ?></strong>
-					<p><?php esc_html_e( 'Free sites can scan with the SEO Repair Kit trial provider. Add the Spam Monitor module to connect your own SERP provider API key and unlock the full Spam Monitor workflow.', 'seo-repair-kit' ); ?></p>
+					<p><?php esc_html_e( 'Free sites can scan with the SEO Repair Kit trial provider. Add Spam Monitor from GBP 7.49/month or GBP 74.99/year to connect your own SERP provider API key and unlock the full workflow.', 'seo-repair-kit' ); ?></p>
 					<div class="srk-sm-module-access-chips">
 						<span><?php esc_html_e( 'Unlock integrations:', 'seo-repair-kit' ); ?></span>
 						<em><?php esc_html_e( 'Serper.dev', 'seo-repair-kit' ); ?></em>
