@@ -8,11 +8,11 @@ SEO Repair Kit is focused on practical technical SEO workflows for WordPress web
 
 ## v2.1.9
 
-Current public evidence/preparation snapshot synced from the private production checkout.
+Current public evidence snapshot synced from the private production checkout.
 
 ## WordPress.org-visible stable release
 
-v2.1.8 is the latest version visible on WordPress.org during this public evidence sync.
+v2.1.9 is the latest version visible on WordPress.org during this public evidence sync.
 
 ### Included Areas
 
@@ -23,12 +23,13 @@ v2.1.8 is the latest version visible on WordPress.org during this public evidenc
 - Robots / LLMs controls
 - KeyTrack workflows
 - Dashboard and reporting tools
-- Spam Monitor
+- Launched Spam Monitor
 - Spam Rules
 - Google SERP scan workflows
 - scheduled spam monitoring
 - alert history and email reports
 - Spam Monitor export/clear actions and pagination
+- current GBP plans and packages
 
 ---
 
