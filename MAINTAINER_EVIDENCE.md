@@ -20,12 +20,13 @@ SEO Repair Kit has been actively developed over multiple versions with long-term
 
 The private company development repository contains 1000+ commits over approximately two years of development activity.
 
-This public repository now mirrors the visible release evidence through v2.1.9:
+This public repository now mirrors the visible release evidence through v2.1.10:
 
 - v2.1.7 public production snapshot
 - v2.1.8 release-note evidence for WordPress 7.0 compatibility and 404 Monitor pagination repair
 - v2.1.9 sanitized code snapshot with Spam Monitor, scheduled monitoring, alert/report workflows, dashboard visibility, and Bot Manager `/llms.txt` serving improvements
 - v2.1.9 compatibility audit copied from the private release-preparation materials
+- v2.1.10 sanitized WordPress.org release snapshot with WordPress 7.1 compatibility metadata and hardened editor asset loading
 
 The repository remains private for security and business reasons, including:
 

@@ -3,7 +3,7 @@
 ![WordPress](https://img.shields.io/badge/WordPress-Plugin-blue)
 ![PHP](https://img.shields.io/badge/PHP-WordPress%20Development-777BB4)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-success)
-![Version](https://img.shields.io/badge/Version-v2.1.9-orange)
+![Version](https://img.shields.io/badge/Version-v2.1.10-orange)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 SEO Repair Kit is a WordPress SEO plugin focused on technical SEO automation, schema management, link auditing, Spam Monitor workflows, redirect workflows, and scalable optimization systems.
@@ -75,22 +75,24 @@ https://wordpress.org/plugins/seo-repair-kit/
 
 Latest synced public evidence version:
 
-- v2.1.9
+- v2.1.10
 
 Latest WordPress.org version visible during this sync:
 
-- v2.1.9
+- v2.1.10
 
 Public evidence snapshots:
 
 - `plugin/sanitized-v2.1.7-codebase/` - production snapshot previously published to WordPress.org
-- `plugin/sanitized-v2.1.9-codebase/` - current public evidence snapshot synced from the private development checkout
+- `plugin/sanitized-v2.1.9-codebase/` - Spam Monitor launch evidence snapshot
+- `plugin/sanitized-v2.1.10-codebase/` - current WordPress.org release snapshot
 
 Release trail:
 
 - v2.1.7 - Links Manager, automation scan alerts, schema/meta/dashboard production work
-- v2.1.8 - current WordPress.org-visible release with WordPress 7.0 compatibility metadata and 404 Monitor pagination fix
+- v2.1.8 - WordPress 7.0 compatibility metadata and 404 Monitor pagination fix
 - v2.1.9 - launched Spam Monitor module, Spam Rules, Google SERP scan workflows, scheduled monitoring, alerts, reports, dashboard visibility, updated GBP pricing packages, and `/llms.txt` serving improvements
+- v2.1.10 - WordPress 7.1 compatibility metadata, verified admin/editor integration, and hardened editor asset loading
 
 The full private repository remains private for business and security reasons, but this public repository is maintained as verifiable evidence of the shipped WordPress.org plugin surface, release notes, architecture, screenshots, and selected sanitized code snapshots.
 

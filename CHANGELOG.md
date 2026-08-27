@@ -1,5 +1,16 @@
 # Changelog
 
+## v2.1.10 Public Evidence Snapshot
+
+Public evidence repository synced to the SEO Repair Kit v2.1.10 WordPress.org release package.
+
+### Highlights
+
+- Added sanitized `v2.1.10` public release snapshot from the official WordPress.org plugin package
+- Updated stable tag to `2.1.10`, release date to `21-08-2026`, and tested compatibility to WordPress 7.1
+- Documented the 2.1.10 compatibility release for verified admin/editor integration and hardened editor asset loading
+- Retained the v2.1.9 Spam Monitor launch snapshot and compatibility audit as historical release evidence
+
 ## v2.1.9 Public Evidence Snapshot
 
 Public evidence repository synced to the current SEO Repair Kit v2.1.9 private checkout line.

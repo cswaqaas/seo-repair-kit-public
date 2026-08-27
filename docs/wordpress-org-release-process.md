@@ -26,5 +26,6 @@ This repository is used for public project documentation and release transparenc
 ## Current Public Evidence
 
 - v2.1.7: sanitized production snapshot retained for historical comparison
-- v2.1.8: latest WordPress.org-visible release during this public evidence sync
-- v2.1.9: sanitized private-checkout evidence snapshot and compatibility audit added
+- v2.1.8: WordPress 7.0 compatibility metadata and 404 Monitor pagination repair represented in the release trail
+- v2.1.9: sanitized Spam Monitor launch evidence snapshot and compatibility audit retained
+- v2.1.10: current WordPress.org release snapshot with WordPress 7.1 compatibility metadata and hardened editor asset loading

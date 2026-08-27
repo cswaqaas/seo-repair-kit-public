@@ -39,6 +39,6 @@ Public proof is supported through:
 - screenshots
 - release notes
 - linked maintainer profiles
-- sanitized v2.1.7 and v2.1.9 code snapshots
-- v2.1.8 and v2.1.9 release trail documentation
+- sanitized v2.1.7, v2.1.9, and v2.1.10 code snapshots
+- v2.1.8, v2.1.9, and v2.1.10 release trail documentation
 - v2.1.9 compatibility audit
