@@ -3,112 +3,53 @@
 ![WordPress](https://img.shields.io/badge/WordPress-Plugin-blue)
 ![PHP](https://img.shields.io/badge/PHP-WordPress%20Development-777BB4)
 ![Status](https://img.shields.io/badge/Status-Active%20Development-success)
-![Version](https://img.shields.io/badge/Version-v2.1.10-orange)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Version](https://img.shields.io/badge/Version-v2.1.12-orange)
+![License](https://img.shields.io/badge/License-GPL--2.0%2B-green)
 
-SEO Repair Kit is a WordPress SEO plugin focused on technical SEO automation, schema management, link auditing, Spam Monitor workflows, redirect workflows, and scalable optimization systems.
+SEO Repair Kit is a WordPress plugin for technical SEO workflows, including link monitoring, redirects, metadata, schema, Search Console insights, internal linking, bot controls, and indexed-spam monitoring.
 
-The production plugin is available on WordPress.org:
+The production plugin is available from [WordPress.org](https://wordpress.org/plugins/seo-repair-kit/). This repository provides public release evidence and project documentation; it is not the primary development repository.
 
-https://wordpress.org/plugins/seo-repair-kit/
+## Current public release
 
-## Project Focus
+The latest WordPress.org release verified for this update is **v2.1.12**. Its release adds Internal Linking as a paid module, protects its admin, AJAX, Gutenberg, indexing, and queue workflows, hardens its database migrations, and adds Internal Linking to dashboard and upgrade messaging. See [the v2.1.12 release notes](docs/V2.1.12-PUBLIC-RELEASE-NOTES.md) and [release evidence index](docs/release-evidence-index.md).
 
-SEO Repair Kit is designed for:
+The v2.1.12 snapshot in `plugin/sanitized-v2.1.12-codebase/` was obtained from the public WordPress.org distribution package. The older v2.1.9 and v2.1.7 snapshots remain available as historical evidence. WordPress.org is the source of record for installable production releases.
 
-- WordPress site owners
-- SEO teams
-- agencies
-- developers maintaining technical SEO workflows
+## Project focus
 
-## Core Areas
+SEO Repair Kit serves WordPress site owners, SEO teams, agencies, and developers maintaining technical SEO workflows.
 
-- Technical SEO automation
-- Link scanning and audit workflows
-- Schema management
-- Meta management
-- Redirect management
-- Launched Spam Monitor workflows
-- WordPress admin tooling
-- Current GBP plan/package pricing evidence
+Core areas include:
 
-## Current Plans and Packages
+- Link scanning, 404 monitoring, scheduled scans, alerts, and redirects
+- Meta and schema management
+- Internal Linking with contextual opportunities, orphan content review, target keywords, and editor workflows
+- Search Console performance insights
+- Sitemap, `robots.txt`, and `llms.txt` controls
+- Image alt-text workflows
+- Spam Monitor scans, rules, reports, and alerts
 
-Complete packages include the full SEO Repair Kit toolset for the selected website allowance.
+Paid capabilities depend on the active module or plan. See the current product information on [WordPress.org](https://wordpress.org/plugins/seo-repair-kit/) and [SEO Repair Kit](https://seorepairkit.com/).
 
-| Plan | Websites | Monthly | Yearly |
-| --- | ---: | ---: | ---: |
-| Individual | 1 | GBP 7.49/month | GBP 36.99/year |
-| Freelancer | 10 | GBP 11.49/month | GBP 88.99/year |
-| Studio | 25 | GBP 22.49/month | GBP 179/year |
-| Agency | 100 | GBP 44.99/month | GBP 359/year |
-| Enterprise | 300 | GBP 111.99/month | GBP 899/year |
+## Current plans and packages
 
-Standalone modules are also available:
-
-| Module | Monthly | Yearly |
-| --- | ---: | ---: |
-| Broken Links + 404 Monitor | GBP 1.49/month | GBP 14.99/year |
-| Schema Manager | GBP 2.99/month | GBP 21.99/year |
-| Internal Linking | GBP 2.29/month | GBP 21.99/year |
-| Spam Monitor | GBP 7.49/month | GBP 74.99/year |
-
-## Maintainer Note
-
-The main development repository is private because it contains company-owned code history, internal workflows, historical branches, and commercial implementation details.
-
-This public repository exists to provide:
-
-- public project documentation
-- release notes
-- architecture overview
-- WordPress.org release references
-- maintainer evidence
-
-## WordPress.org
-
-Plugin page:
-
-https://wordpress.org/plugins/seo-repair-kit/
-
-## Current Public Evidence
-
-Latest synced public evidence version:
-
-- v2.1.10
-
-Latest WordPress.org version visible during this sync:
-
-- v2.1.10
-
-Public evidence snapshots:
-
-- `plugin/sanitized-v2.1.7-codebase/` - production snapshot previously published to WordPress.org
-- `plugin/sanitized-v2.1.9-codebase/` - Spam Monitor launch evidence snapshot
-- `plugin/sanitized-v2.1.10-codebase/` - current WordPress.org release snapshot
-
-Release trail:
-
-- v2.1.7 - Links Manager, automation scan alerts, schema/meta/dashboard production work
-- v2.1.8 - WordPress 7.0 compatibility metadata and 404 Monitor pagination fix
-- v2.1.9 - launched Spam Monitor module, Spam Rules, Google SERP scan workflows, scheduled monitoring, alerts, reports, dashboard visibility, updated GBP pricing packages, and `/llms.txt` serving improvements
-- v2.1.10 - WordPress 7.1 compatibility metadata, verified admin/editor integration, and hardened editor asset loading
-
-The full private repository remains private for business and security reasons, but this public repository is maintained as verifiable evidence of the shipped WordPress.org plugin surface, release notes, architecture, screenshots, and selected sanitized code snapshots.
-
-## Development Status
-
-SEO Repair Kit is actively maintained and under continued development.
+See [Plans and Packages](docs/plans-and-packages.md) for the package and standalone module details currently documented in this repository.
 
 ## Documentation
 
 - [Architecture Overview](docs/architecture.md)
 - [Plans and Packages](docs/plans-and-packages.md)
 - [Release Evidence Index](docs/release-evidence-index.md)
+- [v2.1.12 Public Release Notes](docs/V2.1.12-PUBLIC-RELEASE-NOTES.md)
 - [Release Process](docs/wordpress-org-release-process.md)
 - [Private Repository Policy](docs/private-repo-policy.md)
 - [v2.1.9 Compatibility Audit](docs/V2.1.9-COMPATIBILITY-AUDIT.md)
 - [Roadmap](ROADMAP.md)
+
+## Maintainer note
+
+The private development repository contains internal workflows, historical material, and unreleased work. This public repository documents shipped releases and selected public distribution snapshots under the publication policy.
 
 ## License
 
